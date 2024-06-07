@@ -13,7 +13,7 @@ spec:
         memory: 8Gi
       requests:
         cpu: 1500m
-        memory: 5Gi
+        memory: 2Gi
     sharding: {}
     env:
     - name: ARGOCD_K8S_CLIENT_QPS
